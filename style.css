@@ -1,0 +1,50 @@
+#head{
+    background-color: skyblue;
+    text-align: center;
+}
+
+#answerArea{
+    background-color: gainsboro;
+    text-align: center;
+    border: 2px solid black;
+    padding: 30px;
+    width: 600px;
+    margin-left: 450px;
+    
+}
+
+#ntg{
+    margin-left: 40px;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+}
+
+.buttons{
+    width: 561px;
+    margin-left: 470px;
+    margin-bottom: 20px;
+}
+
+ul{
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 550px;
+}
+li{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+}
+button:hover{
+    background: red;
+    color: white;
+}
+button{
+    font-size: larger;
+    color: black;
+    background-color: aqua;
+}
